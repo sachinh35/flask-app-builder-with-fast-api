@@ -1,0 +1,7 @@
+flask-appbuilder
+flask
+flask-sqlalchemy
+fastapi
+uvicorn
+a2wsgi
+sqlalchemy
